@@ -1,0 +1,3 @@
+live555_canaan,./lib64/lp64d/liblive555.a
+live555_canaan,./usr/include/VideoStreamer.hh
+live555_canaan,./usr/include/IRtspServer.h

@@ -1,0 +1,8 @@
+OPEN liblive555.a
+ADDLIB ./BasicUsageEnvironment/libBasicUsageEnvironment.a
+ADDLIB ./liveMedia/libliveMedia.a
+ADDLIB ./groupsock/libgroupsock.a
+ADDLIB ./testProgs/VideoStreamer.a
+ADDLIB ./UsageEnvironment/libUsageEnvironment.a
+SAVE
+END

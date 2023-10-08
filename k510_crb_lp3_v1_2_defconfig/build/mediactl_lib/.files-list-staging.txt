@@ -1,0 +1,5 @@
+mediactl_lib,./lib64/lp64d/libmediactl.so
+mediactl_lib,./lib64/lp64d/lib3actl.so
+mediactl_lib,./lib64/lp64d/libadaptive.so
+mediactl_lib,./usr/include/media_ctl.h
+mediactl_lib,./usr/include/cJSON.h
